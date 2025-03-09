@@ -23,16 +23,9 @@ Me chamo Pedro César de Paula Trindade, tenho 22 anos e sou natural do Rio Gran
 
 ### 📊 Estatísticas
 
-<div style="display: flex; justify-content: flex-start;">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    style="margin-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=coepedrao&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=coepedrao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</div>
+<table>
+  <tr>
+    <td><img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=coepedrao&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" /></td>
+    <td><img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coepedrao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" /></td>
+  </tr>
+</table>
